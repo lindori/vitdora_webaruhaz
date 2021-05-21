@@ -1,0 +1,31 @@
+[
+    {
+        "Név": "Hajvasaló",
+        "db": "1",
+        "Cikkszám": "1" ,
+        "Ár": "1200" ,
+        "Használt":"nem"
+    },
+    {
+       "Név": "Kávéfőző",
+        "db": "2",
+        "Cikkszám": "2",
+        "Ár": "10000",
+        "Használt":"nem"
+    },
+    {
+       "Név": "Laptop" ,
+        "db": "1",
+        "Cikkszám": "3",
+        "Ár": "50000",
+        "Használt": "igen"
+    },
+    {
+       "Név": "Hajszárító",
+        "db": "3",
+        "Cikkszám": "4",
+        "Ár": "5000",
+        "Használt": "nem"
+    }
+
+]
